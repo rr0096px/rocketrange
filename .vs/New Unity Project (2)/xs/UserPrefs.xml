@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{68935561-146A-092C-1CE2-388EF65D57EF}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SaveWav.cs">
+    <Files>
+      <File FileName="Assets/living birds/animations/birdcontroller.cs" Line="21" Column="2" />
+      <File FileName="Assets/living birds/scripts/lb_Bird.cs" Line="457" Column="51" />
+      <File FileName="Assets/Scripts/VoiceApi.cs" Line="8" Column="1" />
+      <File FileName="Assets/VRM/Scripts/VRMLipSyncContextMorphTarget.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/SaveWav.cs" Line="40" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
